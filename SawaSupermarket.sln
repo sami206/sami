@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SawaSupermarket", "learnFireBase\SawaSupermarket.csproj", "{AC4CE930-AC5E-4E54-B0C8-273D2908BB99}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "My setup", "EXE File !!!!!!!!\My setup\My setup.vdproj", "{0BAE171F-A92F-428D-A8AF-A7C219764A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{AC4CE930-AC5E-4E54-B0C8-273D2908BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC4CE930-AC5E-4E54-B0C8-273D2908BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC4CE930-AC5E-4E54-B0C8-273D2908BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAE171F-A92F-428D-A8AF-A7C219764A58}.Debug|Any CPU.ActiveCfg = Debug
+		{0BAE171F-A92F-428D-A8AF-A7C219764A58}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
