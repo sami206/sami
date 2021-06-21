@@ -303,14 +303,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A975A5BF263931CD7B28406A74602920"
-        "OwnerKey" = "8:_8E861DD71EF441AB8C761C85D70F8258"
+        "MsmKey" = "8:_A5DD740E8F46416DBEFD90C1C97F2D99"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B9FAE919B44942D49B3EFE9FADD0E557"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_A975A5BF263931CD7B28406A74602920"
+        "OwnerKey" = "8:_8E861DD71EF441AB8C761C85D70F8258"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -2053,6 +2053,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5DD740E8F46416DBEFD90C1C97F2D99"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\..\\..\\Downloads\\icons8-small-business-64.ico"
+            "TargetName" = "8:icons8-small-business-64.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_AE08609480904D7DB69819265BA6D1AE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A975A5BF263931CD7B28406A74602920"
             {
             "AssemblyRegister" = "3:1"
@@ -2082,26 +2102,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B9FAE919B44942D49B3EFE9FADD0E557"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\..\\Downloads\\icons8-small-business-64.ico"
-            "TargetName" = "8:icons8-small-business-64.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_4851E3405CC24AF3B1012BC9A249D058"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C902A6764F62782B22DF11EF706233BE"
@@ -2708,6 +2708,17 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_AE08609480904D7DB69819265BA6D1AE"
+                    {
+                    "Name" = "8:New Folder #1"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_EDF76B5BEA534B5DBC429CF87F5BE3D5"
+                        "Folders"
+                        {
+                        }
+                    }
                 }
             }
             "{1525181F-901A-416C-8A58-119130FE478E}:_4851E3405CC24AF3B1012BC9A249D058"
@@ -2750,7 +2761,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:My setup"
         "ProductCode" = "8:{056E9E99-F3C4-41BD-9B22-01990E50BA90}"
-        "PackageCode" = "8:{F144C6AD-5D5C-4357-B898-CFD34C14CBAD}"
+        "PackageCode" = "8:{9A4656AF-4C22-47A6-BDBF-3CAB62D46CBE}"
         "UpgradeCode" = "8:{DF728173-EEF5-45F3-A09A-B1ACBE6F4503}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -2881,7 +2892,7 @@
             "Target" = "8:_8E861DD71EF441AB8C761C85D70F8258"
             "Folder" = "8:_4851E3405CC24AF3B1012BC9A249D058"
             "WorkingFolder" = "8:_DEAD76054FC7499D8DA3B7930985BA39"
-            "Icon" = "8:_B9FAE919B44942D49B3EFE9FADD0E557"
+            "Icon" = "8:_A5DD740E8F46416DBEFD90C1C97F2D99"
             "Feature" = "8:"
             }
         }
